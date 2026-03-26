@@ -33,7 +33,7 @@ It helps in understanding key sales metrics, identifying top-performing products
 
 📷 Dashboard Preview
 
-"Sales Dashboard" (dashboard.png)
+"Sales Dashboard" 
 "<img width="1359" height="755" alt="Screenshot 2026-03-26 153619" src="https://github.com/user-attachments/assets/32f4aecc-a4d2-453b-8375-e34248001a05" />
 
 
